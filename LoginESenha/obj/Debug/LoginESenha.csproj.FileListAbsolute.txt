@@ -1,0 +1,13 @@
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\bin\Debug\LoginESenha.exe.config
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\bin\Debug\LoginESenha.exe
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\bin\Debug\LoginESenha.pdb
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\obj\Debug\LoginESenha.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\obj\Debug\LoginESenha.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\obj\Debug\LoginESenha.Apresentacao.BemVindo.resources
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\obj\Debug\LoginESenha.Apresentacao.CadastreSe.resources
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\obj\Debug\LoginESenha.Form1.resources
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\obj\Debug\LoginESenha.Properties.Resources.resources
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\obj\Debug\LoginESenha.csproj.GenerateResource.cache
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\obj\Debug\LoginESenha.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\obj\Debug\LoginESenha.exe
+C:\Users\mathe\Desktop\LoginESenha\LoginESenha\obj\Debug\LoginESenha.pdb
